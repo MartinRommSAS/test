@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reportPackage>
+    <dataLevel>offline</dataLevel>
+    <files>
+        <file contentKey="TX6LBT2Y4MNCYZED57LNGNX5APE6V67L" name="report" type="report">
+            <links>
+                <link href="/report.xml" method="GET" rel="content" type="application/vnd.sas.report.content" uri="/report.xml"/>
+            </links>
+        </file>
+        <file contentKey="AWN7D5F5DOQKHJEL2WN63DSJSKMYJ74H" name="basems1.css" type="css">
+            <links>
+                <link href="/css/basems1.css" method="GET" rel="content" type="text/css" uri="/css/basems1.css"/>
+            </links>
+        </file>
+        <file contentKey="MUKCJKQM63VYSZZCK4R73R2RV3I6MFDR" name="highcontrast.css" type="css">
+            <links>
+                <link href="/css/highcontrast.css" method="GET" rel="content" type="text/css" uri="/css/highcontrast.css"/>
+            </links>
+        </file>
+        <file contentKey="C63OCHMAXYAKNJGC4AI77ZYIBJN4QRJ7" name="metadataSupplement" type="resource">
+            <links>
+                <link href="/metadataSupplement.xml" method="GET" rel="content" type="application/vnd.sas.report.metadata.supplement" uri="/metadataSupplement.xml"/>
+            </links>
+        </file>
+        <file contentKey="3Z23HH34YHKPHXQKXCIIGF2YYN2IWFGP" name="index.html" type="html">
+            <links>
+                <link href="/index.html" method="GET" rel="content" type="text/html" uri="/index.html"/>
+            </links>
+        </file>
+        <file contentKey="EJ6JHIKOTNMVJKR6CHDC2AZXTYKZIP6D" name="packageIndex.html" type="html">
+            <links>
+                <link href="/packageIndex.html" method="GET" rel="content" type="text/html" uri="/packageIndex.html"/>
+            </links>
+        </file>
+        <file contentKey="SPY52PJZFAC6CBLWR2VJDU23UTW354LP" name="viyafonts.css" type="css">
+            <links>
+                <link href="/css/viyafonts.css" method="GET" rel="content" type="text/css" uri="/css/viyafonts.css"/>
+            </links>
+        </file>
+        <file contentKey="GWBEY45BDPJKVXB6NDWN3DRW54INU6VG" name="settings" type="resource">
+            <links>
+                <link href="/settings.json" method="GET" rel="content" type="application/vnd.sas.attributes" uri="/settings.json"/>
+            </links>
+        </file>
+    </files>
+    <formatLocale>en-US</formatLocale>
+    <generatedTimeStamp>2024-01-18T15:42:10.821Z</generatedTimeStamp>
+    <id>o_11f0d3e6-a908-4cbf-9316-582ce615fb5a</id>
+    <links>
+        <link href="/reportPackages/packages/o_11f0d3e6-a908-4cbf-9316-582ce615fb5a" method="GET" rel="self" type="application/vnd.sas.report.package" uri="/reportPackages/packages/o_11f0d3e6-a908-4cbf-9316-582ce615fb5a"/>
+        <link href="/reportData/results?reportContentKey=4XHBATDCJ4Z6RFCEPMOWKLWHQ3EUZLYD&amp;reportUri=%2Freports%2Freports%2Fe94f26ea-b16f-4cde-8c3e-182a18101c58&amp;reportDate=2024-01-18T15%3A42%3A10.821Z" method="POST" rel="requery" responseType="application/vnd.sas.report.results" type="application/vnd.sas.report.query.state" uri="/reportData/results?reportContentKey=4XHBATDCJ4Z6RFCEPMOWKLWHQ3EUZLYD&amp;reportUri=%2Freports%2Freports%2Fe94f26ea-b16f-4cde-8c3e-182a18101c58&amp;reportDate=2024-01-18T15%3A42%3A10.821Z"/>
+        <link href="/reportData/jobs?reportContentKey=4XHBATDCJ4Z6RFCEPMOWKLWHQ3EUZLYD&amp;reportUri=%2Freports%2Freports%2Fe94f26ea-b16f-4cde-8c3e-182a18101c58&amp;reportDate=2024-01-18T15%3A42%3A10.821Z" method="POST" rel="requeryJob" responseType="application/vnd.sas.report.data.job" type="application/vnd.sas.report.query.state" uri="/reportData/jobs?reportContentKey=4XHBATDCJ4Z6RFCEPMOWKLWHQ3EUZLYD&amp;reportUri=%2Freports%2Freports%2Fe94f26ea-b16f-4cde-8c3e-182a18101c58&amp;reportDate=2024-01-18T15%3A42%3A10.821Z"/>
+    </links>
+    <locale>en-US</locale>
+    <modifiedTimeStamp>2024-01-18T15:41:26.164Z</modifiedTimeStamp>
+    <size>114878</size>
+    <source>/reports/reports/e94f26ea-b16f-4cde-8c3e-182a18101c58</source>
+    <version>40</version>
+</reportPackage>
